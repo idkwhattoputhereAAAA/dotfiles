@@ -1,2 +1,3 @@
 # dotfiles
-My dotfiles
+my dotfiles for:
+- vim
